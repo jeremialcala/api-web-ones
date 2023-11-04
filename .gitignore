@@ -1,0 +1,5 @@
+.idea/
+.aws/
+.certs/
+env_variables
+test.py
